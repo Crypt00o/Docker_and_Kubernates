@@ -490,7 +490,7 @@ build your image
 
 run new image in new container `docker container run -it --rm -p 80:3000 cryptopress_image:latest`
 
-visit [http://128.0.0.1](http://128.0.0.1) from your browser you will find response : {"Server":"0xDrypt00o Server is Working !","PowerdBy":"Eslam Mohammed"}
+visit [http://127.0.0.1](http://127.0.0.1) from your browser you will find response : {"Server":"0xDrypt00o Server is Working !","PowerdBy":"Eslam Mohammed"}
 
 * * *
 
